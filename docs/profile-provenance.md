@@ -60,13 +60,22 @@ VLC, Linux or NVIDIA has also been accepted.
 
 ### Engineering methods spotlight
 
-The profile highlights two distinct, documented contributions:
+The profile distinguishes the architecture, its application to coding, and
+the collaboration method:
 
 - [Hyper-Modular Architecture definition](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/W3C/HYPER_MODULAR_DEFINITION.md), supported by the
   [architecture specification](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/vocabulary/HYPER_MODULAR_ARCHITECTURE.md): multiple levels of procedural
   composition, canonical references, cross-domain reuse and human/AI clients.
   The profile describes Daniel's design approach and its aims, not a universal
   zero-duplication, security or performance guarantee.
+- **Hyper-Modular Coding** is Daniel's owner-confirmed application of that
+  architecture to software construction: recursive composition, focused
+  responsibility, explicit contracts, reuse, and corresponding test and
+  documentation boundaries. Knowledge3D is a public architectural example,
+  not the limit of the method's scope. This description does not claim that
+  every listed repository fully implements the discipline or that this
+  profile review executed its implementation tests. Only the general method
+  is described; nonpublic applications and implementation details are excluded.
 - [MVCIC technical note](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/MVCIC_TECH_NOTE.md): Multi-Vibe Code in Chain, authored by Daniel;
   human direction, named AI partners, recorded contributions, integration and
   review. Its commit-linked history distinguishes the method from any one model
