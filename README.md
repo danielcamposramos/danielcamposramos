@@ -12,6 +12,41 @@ Based in Brasília, Brazil. Building with a global community.
 
 [EchoSystems](https://echosystems.ai/) · [LinkedIn](https://www.linkedin.com/in/danielcamposramos/) · [Get in touch](mailto:contact@echosystems.ai)
 
+**Programming & markup**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D)
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)](https://github.com/danielcamposramos/Array42/tree/main/zig)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/danielcamposramos/ESP32-advanced_http_server)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/danielcamposramos/source-sdk-2013)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Sparky-OS/sparky-beep)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/danielcamposramos/respec-mcp)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D/tree/main/viewer)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D/tree/main/viewer)
+[![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D/tree/main/viewer)
+[![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=black)](https://github.com/danielcamposramos/openlinkhub-kde-widget)
+
+**Systems & interfaces**
+
+[![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://github.com/danielcamposramos/sony-bravia-linux)
+[![SparkyLinux contributor](https://img.shields.io/badge/SparkyLinux-contributor-2777AD?style=flat-square)](#sparkylinux--community)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/danielcamposramos?tab=repositories)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/danielcamposramos/sony-bravia-linux/tree/main/tools)
+[![CUDA / PTX](https://img.shields.io/badge/CUDA_%2F_PTX-76B900?style=flat-square&logo=nvidia&logoColor=black)](https://github.com/danielcamposramos/Knowledge3D/tree/main/knowledge3d/cranium)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](https://github.com/danielcamposramos/sony-bravia-linux)
+[![MCP](https://img.shields.io/badge/MCP-interfaces-5B4B9A?style=flat-square)](https://github.com/danielcamposramos/respec-mcp)
+
+**Work & community**
+
+[![Awesome lists curator](https://img.shields.io/badge/Awesome_lists-curator-FC60A8?style=flat-square&logo=awesomelists&logoColor=black)](#reference-collections)
+[![Open-source contributor](https://img.shields.io/badge/Open_source-contributor-238636?style=flat-square&logo=opensourceinitiative&logoColor=white)](#from-the-bench-to-upstream)
+[![Electrical engineer](https://img.shields.io/badge/Electrical_engineer-005A9C?style=flat-square)](https://echosystems.ai/about/)
+[![Stereoscopy](https://img.shields.io/badge/Stereoscopy-8A2BE2?style=flat-square)](https://github.com/danielcamposramos/awesome-stereoscopy)
+[![Spatial computing](https://img.shields.io/badge/Spatial_computing-2563EB?style=flat-square)](https://github.com/danielcamposramos/Knowledge3D)
+[![PM-KR Community Group co-chair](https://img.shields.io/badge/PM--KR_CG-Co--chair-005A9C?style=flat-square)](https://www.w3.org/community/pm-kr/)
+[![Hyper-Modular Coding](https://img.shields.io/badge/Hyper--Modular_Coding-0F766E?style=flat-square)](#how-i-build-hyper-modular-architecture--mvcic)
+[![MVCIC collective intelligence](https://img.shields.io/badge/MVCIC-collective_intelligence-7C3AED?style=flat-square)](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/MVCIC_TECH_NOTE.md)
+[![Online since 1996](https://img.shields.io/badge/Online_since-1996-475569?style=flat-square)](#engineering-background)
+
 ## What I'm building
 
 | Project | The work |
@@ -57,8 +92,11 @@ Together with Paweł (pavroo), I developed [Sparky-OS](https://github.com/Sparky
 
 Beyond software, I volunteer as a remote tutor with [The Halifax Helpers](https://www.thehalifaxhelpers.com/our-helpers), supporting students in English, mathematics and science.
 
+<a id="engineering-background"></a>
 <details>
 <summary><strong>Engineering & professional background</strong></summary>
+
+My computing journey began with Internet and introductory computing courses at Colégio Objetivo in Brasília in 1996. I created my first email identity in that Internet class: `capitain_jack`, deliberately spelled that way and inspired by the Eurodance group Captain Jack's song *Captain Jack*—not Jack Sparrow. In 2026, that same email identity turns **30 years old**—and I still use it.
 
 - Bachelor of Electrical Engineering, Universidade Cruzeiro do Sul, completed in 2022; registered with CREA-DF since 2023.
 - More than two decades in IT consulting, maintenance and systems management; founder of Campos Informática DF.
@@ -69,6 +107,30 @@ More context: [Lattes CV](http://lattes.cnpq.br/5804732092654795) · [EchoSystem
 
 </details>
 
+<a id="selected-learning-and-credentials"></a>
+<details>
+<summary><strong>Selected learning & credentials</strong></summary>
+
+[![Generative AI learning path](https://img.shields.io/badge/Generative_AI-learning_path-7C3AED?style=flat-square)](#selected-learning-and-credentials)
+[![Machine learning foundations](https://img.shields.io/badge/Machine_learning-foundations-2563EB?style=flat-square)](#selected-learning-and-credentials)
+[![Cloud architecture coursework](https://img.shields.io/badge/Cloud_architecture-coursework-0284C7?style=flat-square)](#selected-learning-and-credentials)
+[![Networks and servers coursework](https://img.shields.io/badge/Networks_%26_servers-coursework-0F766E?style=flat-square)](#selected-learning-and-credentials)
+[![IoT course](https://img.shields.io/badge/IoT-course-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#selected-learning-and-credentials)
+[![SCADA professional development](https://img.shields.io/badge/SCADA-professional_development-005A9C?style=flat-square)](#selected-learning-and-credentials)
+[![Digital twins seminar](https://img.shields.io/badge/Digital_twins-seminar-8A2BE2?style=flat-square)](#selected-learning-and-credentials)
+[![Critical thinking course](https://img.shields.io/badge/Critical_thinking-course-475569?style=flat-square)](#selected-learning-and-credentials)
+[![English EF SET C2](https://img.shields.io/badge/English-EF_SET_C2-16A34A?style=flat-square)](#selected-learning-and-credentials)
+
+- **AI & critical thinking:** *Career Essentials in Generative AI by Microsoft and LinkedIn* (2023); *Artificial Intelligence Foundations: Machine Learning* and *Creating GPTs with Actions* (2025); LinkedIn Learning's *Critical Thinking* (2022); Sebrae's entrepreneurial immersion in AI (2025).
+- **Systems & engineering coursework:** Cruzeiro do Sul learning paths in cloud architecture, networks and server administration, data analysis, project/business management and engineering leadership (2022). Cisco Networking Academy course completions cover computer hardware, operating systems, IoT and English for IT.
+- **Continuing engineering education:** *Fundamentals of SCADA for Electrical Systems* (1 PDH, 2025); CREA-DF seminars on digital twins and AI applied to engineering (2024); further courses on solar energy, rail electrification and energy management (2025).
+- **English:** EF SET **C2 Proficient** overall, recorded in 2023 and 2024.
+
+Course and seminar completion records are distinguished from professional certifications. Original documents remain private.
+
+</details>
+
+<a id="reference-collections"></a>
 <details>
 <summary><strong>Reference collections</strong></summary>
 

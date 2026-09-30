@@ -17,6 +17,51 @@ The background source is intentionally not linked or identified here, in the
 profile, or elsewhere in this repository's public content, at Daniel's request.
 Do not publish professional registration numbers or private contact details.
 
+For the badge update, Daniel also supplied local certificate collections,
+including nested source-document folders. The selected learning section is
+based on inspection of certificate text, scans and accompanying transcriptions,
+not just résumé claims or filenames. These are owner-held records, not an
+independent issuer-validation audit. No original certificate, private source
+path, credential code or personal identifier is published here.
+
+### Computing origins and selected learning
+
+- The 1996 Internet-course certificate was inspected visually: Colégio Objetivo,
+  Daniel Campos Ramos, 20 class hours, March–June 1996, issued 30 June 1996 in
+  Brasília. A companion record documents introductory computing in the same
+  period. Daniel confirms that his first email identity was created in the
+  Internet class. Its deliberate `capitain_jack` spelling and inspiration in
+  Captain Jack's Eurodance song, rather than Jack Sparrow, are his own account.
+  He confirms continued use of that email identity in 2026, thirty years later;
+  the actual address remains unpublished.
+  This establishes a learning-history milestone, not 30 years of paid employment.
+- LinkedIn Learning records support the named Generative AI learning path
+  (August 2023), Critical Thinking course (May 2022), Creating GPTs with Actions
+  (January 2025) and Machine Learning foundations course (January 2025).
+- Cruzeiro do Sul completion records support cloud architecture, network/server
+  administration, data analysis, project/business management and leadership
+  learning paths. These supplementary learning paths do not represent separate
+  degrees or cloud-vendor certifications.
+- Cisco Networking Academy records are student-level course-completion or
+  achievement statements in hardware, operating systems, IoT and English for IT,
+  not evidence of CCNA or another professional exam certification.
+- The SCADA record was checked using local OCR of its image-only certificate:
+  one Professional Development Hour, issued February 2025. CREA-DF records
+  document participation in AI-applied-to-engineering and digital-twin seminars
+  in August 2024. Additional 2025 continuing-education records cover solar
+  energy, rail electrification and energy management; no specialist license is
+  inferred from attendance or PDH completion. Sebrae's AI entrepreneurship
+  immersion records completion in July 2025.
+- EF SET documents record C2 overall in October 2023 (78/100, reading/listening)
+  and July 2024 (77/100, reading/listening/writing). The latter has a C1 listening
+  component despite its C2 overall result; the profile deliberately specifies
+  **overall** and does not imply every component or speaking skill was tested
+  at C2. No verification links or credential codes are published.
+
+Medical, third-party and unrelated administrative records were excluded from
+this professional-profile review. Historical course evidence is not used to
+claim a currently valid safety authorization or regulated professional status.
+
 [EchoSystems](https://echosystems.ai/) and its
 [about page](https://echosystems.ai/about/) establish the studio identity,
 founder's role and collaborative approach. Marketing projections and claims of
@@ -173,3 +218,36 @@ not just the visible introduction.
 
 The design uses these supported features rather than advertising them as new
 in 2026. There are no third-party live statistics images or activity counters.
+
+### Badge rows
+
+The owner requested compact badges inspired by
+[Edson C da Silva's profile](https://github.com/eddiecsilva/eddiecsilva/blob/main/README.md).
+The profile uses [Shields.io static badges](https://shields.io/badges/static-badge)
+with the same `flat-square` styling. These externally served images have fixed
+labels, not live skill ratings, certificates, activity counts or endorsements.
+Each badge links to relevant public work or its supporting profile section.
+Direct image verification from this session received HTTP 403 from the badge
+host. That restriction was not bypassed; structural checks and GitHub Markdown
+rendering are separate from live image availability. Static badges remain an
+external image dependency, unlike the self-hosted profile banner.
+Learning badges explicitly say coursework, foundations, seminar, learning path,
+professional development or the named English test result. They are separated
+from the programming badges and do not convert completion records into vendor
+professional certifications.
+
+Programming and markup choices were checked against public repository language
+records on 2026-09-30: Knowledge3D (Python, CUDA, TypeScript, Shell, C/C++, HTML,
+CSS and JavaScript), Array42 (including its Zig implementation), respec-mcp
+(JavaScript) and openlinkhub-kde-widget (QML). Local source paths corroborate
+the Knowledge3D viewer and CUDA/PTX work, Array42's Zig implementation and
+BRAVIA's shell and Docker workflows. C also appears in Daniel's public ESP32
+projects; Bash scripting is part of his recorded Sparky-OS contribution.
+
+Repository language inventories alone do not prove authorship or proficiency
+in every inherited language. Java, Objective-C and other languages found in
+upstream code were therefore not added merely because they appear in Array42's
+inventory. The badges represent languages and systems used in Daniel's project
+work, including collaborative implementation, not claims of sole authorship.
+Awesome-list curation, upstream contributions, engineering, display research,
+PM-KR co-chairing and the two named methods retain the claim boundaries above.
