@@ -101,7 +101,9 @@ Beyond software, I volunteer as a remote tutor with [The Halifax Helpers](https:
 <details>
 <summary><strong>Engineering & professional background</strong></summary>
 
-My computing journey began with Internet and introductory computing courses at Colégio Objetivo in Brasília in 1996. I created my first email identity in that Internet class: `capitain_jack`, deliberately spelled that way and inspired by the Eurodance group Captain Jack's song *Captain Jack*—not Jack Sparrow. In 2026, that same email identity turns **30 years old**—and I still use it.
+My exposure to computing began with Atari, Gradiente MSX machines, early PCs and an Apple IIc. I also saw active BBSs before my first formal Internet course at Colégio Objetivo in Brasília in 1996.
+
+I created my first email identity in that Internet class: `capitain_jack`, deliberately spelled that way and inspired by the Eurodance group Captain Jack's song *Captain Jack*—not Jack Sparrow. In 2026, that same email identity turns **30 years old**—and I still use it.
 
 Soon afterward, I was writing **DOS batch launchers for games**, before we even had a computer or Internet connection at home.
 

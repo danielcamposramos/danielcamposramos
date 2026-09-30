@@ -26,6 +26,12 @@ path, credential code or personal identifier is published here.
 
 ### Computing origins and selected learning
 
+- Daniel recalls early exposure to Atari, Gradiente MSX machines, early PCs
+  and an Apple IIc, and seeing active BBSs before his formal Internet course.
+  These are owner-reported memories, not independently dated hardware records
+  or claims of BBS operation. The profile distinguishes this earlier exposure
+  from the documented 1996 learning milestone; it does not infer continuous
+  household computer ownership or publish private family circumstances.
 - The 1996 Internet-course certificate was inspected visually: Colégio Objetivo,
   Daniel Campos Ramos, 20 class hours, March–June 1996, issued 30 June 1996 in
   Brasília. A companion record documents introductory computing in the same
