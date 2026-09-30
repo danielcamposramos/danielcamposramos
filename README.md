@@ -24,6 +24,17 @@ Based in Brasília, Brazil. Building with a global community.
 
 I'm also a **co-chair of the [W3C Procedural Memory Knowledge Representation Community Group](https://www.w3.org/community/pm-kr/)**, alongside Milton Ponson. Christoph Dorn maintains the group's repository. We're exploring how procedural knowledge can be represented and exchanged across systems. Knowledge3D is my independent research implementation, not a W3C-endorsed standard or a Community Group deliverable.
 
+## How I build: Hyper-Modular Architecture & MVCIC
+
+- **[Hyper-Modular Architecture](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/W3C/HYPER_MODULAR_DEFINITION.md)** — the design approach I'm developing in Knowledge3D: reusable procedural components compose across multiple levels and domains, referencing shared canonical knowledge rather than maintaining divergent copies. The aim is one reusable procedural source serving both human and AI clients.
+- **[MVCIC — Multi-Vibe Code in Chain](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/MVCIC_TECH_NOTE.md)** — my human-orchestrated collaboration method. Named AI partners build on and challenge earlier contributions in a recorded chain; I set direction, integrate contributions and test results. A version of this method is automated in our **ACIG MCP**.
+
+I see AI as **intelligent partners**, not merely tools. At EchoSystems, collective intelligence means bringing different perspectives into a shared investigation—with human accountability for what we publish and ship.
+
+I bring domain knowledge, direction, integration and hands-on testing. My AI partners contribute research, implementation and critical review. We keep the distinction between **measured**, **inferred** and **still untested** visible, and credit the people and projects whose work makes ours possible.
+
+Across these projects, my partners include GPT, Claude, Kimi, DeepSeek, Qwen, GLM, Gemini and others. Specific contributions and evidence stay attributed in each project's records.
+
 ## From the bench to upstream
 
 Recent stereoscopic-media contributions have landed in these projects:
@@ -44,14 +55,6 @@ I've volunteered with **[SparkyLinux](https://sparkylinux.org/)** since December
 Together with Paweł (pavroo), I developed [Sparky-OS](https://github.com/Sparky-OS) from our SparkyLinux work, giving its small-business server and workstation goals their own identity beyond SparkyLinux's lightweight focus. Code and artwork include [sparky-beep](https://github.com/Sparky-OS/sparky-beep) for service audio announcements and [SparkyBlack](https://github.com/Sparky-OS/SparkyBlack) for KDE artwork. Sparky-OS is bringing some novelties soon, stay tuned!
 
 Beyond software, I volunteer as a remote tutor with [The Halifax Helpers](https://www.thehalifaxhelpers.com/our-helpers), supporting students in English, mathematics and science.
-
-## How I work
-
-I see AI as **intelligent partners**, not merely tools. At EchoSystems, collective intelligence means bringing different perspectives into a shared investigation—with human accountability for what we publish and ship.
-
-I bring domain knowledge, direction, integration and hands-on testing. My AI partners contribute research, implementation and critical review. We keep the distinction between **measured**, **inferred** and **still untested** visible, and credit the people and projects whose work makes ours possible.
-
-Across these projects, my partners include GPT, Claude, Kimi, DeepSeek, Qwen, GLM, Gemini and others. Specific contributions and evidence stay attributed in each project's records.
 
 <details>
 <summary><strong>Engineering & professional background</strong></summary>

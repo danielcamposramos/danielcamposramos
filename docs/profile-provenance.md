@@ -58,6 +58,42 @@ VLC, Linux or NVIDIA has also been accepted.
 
 ## Repositories and hardware evidence
 
+### Engineering methods spotlight
+
+The profile highlights two distinct, documented contributions:
+
+- [Hyper-Modular Architecture definition](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/W3C/HYPER_MODULAR_DEFINITION.md), supported by the
+  [architecture specification](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/vocabulary/HYPER_MODULAR_ARCHITECTURE.md): multiple levels of procedural
+  composition, canonical references, cross-domain reuse and human/AI clients.
+  The profile describes Daniel's design approach and its aims, not a universal
+  zero-duplication, security or performance guarantee.
+- [MVCIC technical note](https://github.com/danielcamposramos/Knowledge3D/blob/main/docs/MVCIC_TECH_NOTE.md): Multi-Vibe Code in Chain, authored by Daniel;
+  human direction, named AI partners, recorded contributions, integration and
+  review. Its commit-linked history distinguishes the method from any one model
+  or automation framework.
+
+Both linked definitions were checked for public availability via GitHub's API
+on 2026-09-30. The technical note matched the local file byte-for-byte; the
+public hyper-modular definition differed from the local copy only in the
+wording of its formal-definition heading. They are project-authored documents,
+not independently adopted W3C Recommendations.
+
+Daniel confirmed that ACIG MCP contains a version of MVCIC. The active MCP tool
+inventory exposes `mvcic`, describing a sequential partner chain with preserved
+prior contributions and a persisted chain record. A bounded ACIG
+`consult_partner` review was used to check the profile wording; the full MVCIC
+chain was not executed for this profile edit. The paragraph does not claim
+that such a run took place, or that ACIG's implementation was exhaustively
+tested here. No unverified public repository URL was invented for ACIG.
+
+The orchestration skill's claim checks informed this synthesis: distinguish
+the documented architecture, the collaboration method, the exposed automation
+and the evidence actually inspected. Speed multipliers, world-first claims,
+universal compression claims and AI-authored endorsements from older tutorials
+are deliberately not repeated in the profile.
+
+### Project scope and bench results
+
 Project links and descriptions were checked against the owner's public GitHub
 repositories. Original work is distinguished from contributions to other
 projects; Array42 explicitly credits Free42 as its foundation. The Source
