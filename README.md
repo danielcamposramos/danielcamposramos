@@ -34,6 +34,11 @@ Based in Brasília, Brazil. Building with a global community.
 [![CUDA / PTX](https://img.shields.io/badge/CUDA_%2F_PTX-76B900?style=flat-square&logo=nvidia&logoColor=black)](https://github.com/danielcamposramos/Knowledge3D/tree/main/knowledge3d/cranium)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](https://github.com/danielcamposramos/sony-bravia-linux)
 [![MCP](https://img.shields.io/badge/MCP-interfaces-5B4B9A?style=flat-square)](https://github.com/danielcamposramos/respec-mcp)
+[![Windows from the 95 and NT era onward](https://img.shields.io/badge/Windows-95_%2F_NT_onward-0078D4?style=flat-square)](#earlier-professional-practice)
+[![Samba / Active Directory](https://img.shields.io/badge/Samba_%2F_AD-324B73?style=flat-square)](#earlier-professional-practice)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://github.com/danielcamposramos/ESP32-advanced_http_server)
+[![Arduino programming](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](#earlier-professional-practice)
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)](https://github.com/danielcamposramos/ESP32-simple_mqtt_lora)
 
 **Work & community**
 
@@ -98,12 +103,40 @@ Beyond software, I volunteer as a remote tutor with [The Halifax Helpers](https:
 
 My computing journey began with Internet and introductory computing courses at Colégio Objetivo in Brasília in 1996. I created my first email identity in that Internet class: `capitain_jack`, deliberately spelled that way and inspired by the Eurodance group Captain Jack's song *Captain Jack*—not Jack Sparrow. In 2026, that same email identity turns **30 years old**—and I still use it.
 
+Soon afterward, I was writing **DOS batch launchers for games**, before we even had a computer or Internet connection at home.
+
 - Bachelor of Electrical Engineering, Universidade Cruzeiro do Sul, completed in 2022; registered with CREA-DF since 2023.
 - More than two decades in IT consulting, maintenance and systems management; founder of Campos Informática DF.
 - Engineering internship with Neoenergia Brasília, including substation CAD documentation and support for electrical infrastructure work.
 - Earlier work in web development and multimedia; continuing interests in embedded systems, audio, accessibility and right to repair.
 
 More context: [Lattes CV](http://lattes.cnpq.br/5804732092654795) · [EchoSystems background](https://echosystems.ai/about/).
+
+</details>
+
+<a id="earlier-professional-practice"></a>
+<details>
+<summary><strong>Earlier IT, web & engineering practice</strong></summary>
+
+[![DOS / Batch scripting](https://img.shields.io/badge/DOS_%2F_Batch-scripting-475569?style=flat-square)](#earlier-professional-practice)
+[![Flash legacy work](https://img.shields.io/badge/Flash-legacy_work-CF302A?style=flat-square)](#earlier-professional-practice)
+[![DHTML](https://img.shields.io/badge/DHTML-E34F26?style=flat-square)](#earlier-professional-practice)
+[![Early JavaScript](https://img.shields.io/badge/Early_JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#earlier-professional-practice)
+[![Dreamweaver legacy work](https://img.shields.io/badge/Dreamweaver-legacy_work-38761D?style=flat-square)](#earlier-professional-practice)
+[![Fireworks legacy work](https://img.shields.io/badge/Fireworks-legacy_work-B7791F?style=flat-square)](#earlier-professional-practice)
+[![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00853F?style=flat-square)](#earlier-professional-practice)
+[![Computer networks](https://img.shields.io/badge/Computer_networks-2563EB?style=flat-square)](#earlier-professional-practice)
+[![IT infrastructure](https://img.shields.io/badge/IT_infrastructure-0F766E?style=flat-square)](#earlier-professional-practice)
+[![Desktop maintenance](https://img.shields.io/badge/Desktop_maintenance-475569?style=flat-square)](#earlier-professional-practice)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-B3261E?style=flat-square)](#earlier-professional-practice)
+[![Bentley MicroStation](https://img.shields.io/badge/MicroStation-005A9C?style=flat-square)](#earlier-professional-practice)
+
+- **Web & multimedia:** early JavaScript and DHTML sites, Flash-based interactive work and multimedia CDs, with Dreamweaver and Fireworks in the earlier authoring workflow. Graphic work includes CorelDRAW layouts and print materials.
+- **Hands-on IT:** desktop assembly, configuration, hardware/software maintenance, network implementation and infrastructure administration through Campos Informática DF. My Windows experience starts in the **95/NT era**; Linux/Windows integration includes **Samba and Active Directory**.
+- **Embedded programming:** ESP32 work in C/C++, using PlatformIO and Arduino-style sketches, including sensor/display experiments. Public projects include an [HTTP server](https://github.com/danielcamposramos/ESP32-advanced_http_server), a [cycle counter](https://github.com/danielcamposramos/ESP32-simple_cycle_counter) and an [MQTT/LoRa gateway](https://github.com/danielcamposramos/ESP32-simple_mqtt_lora).
+- **Engineering CAD:** AutoCAD experience and Bentley MicroStation work, alongside the electrical drawing and documentation activities noted above.
+
+Legacy badges describe earlier practice, not recommendations to deploy retired software. Client archives and private engineering documents remain private.
 
 </details>
 

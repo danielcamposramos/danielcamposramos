@@ -62,6 +62,56 @@ Medical, third-party and unrelated administrative records were excluded from
 this professional-profile review. Historical course evidence is not used to
 claim a currently valid safety authorization or regulated professional status.
 
+### Earlier IT, web, embedded and CAD work
+
+Daniel requested recursive review of his business and engineering archives to
+recover earlier practice missing from the profile. The review combined a
+recursive file inventory, selected source inspection, archived résumé records
+and his direct confirmations. It is not a claim that every archived file was
+read or that its presence proves his authorship, expertise or a completed job.
+Only generic practice descriptions were extracted; no client identities,
+private source paths, credentials, internal diagrams or archive originals were
+published. Password-labelled files, tax/financial records and operational
+secrets were not used as profile sources.
+
+- **DOS/Batch:** Daniel confirms that he began writing game-launching batch
+  files shortly after the 1996 Internet course, before his household had a
+  computer or Internet connection. This origin detail is owner testimony,
+  not a claim that an original 1996 launcher was located or executed.
+- **Web and multimedia:** Daniel explicitly confirms Flash, DHTML and early
+  JavaScript work. His archived résumé also records website development and
+  administration, multimedia CDs and the Dreamweaver/Fireworks workflow.
+  Nested archives contain authored-project layouts, HTML/JavaScript pages,
+  Flash movies and editable Flash authoring files, plus CorelDRAW print/layout
+  files. Collected assets and third-party library code are not attributed to
+  him. "Early JavaScript" preserves the historical account without claiming
+  that every inspected page targets a precisely verified JavaScript 1.0 engine.
+- **IT infrastructure:** Daniel explicitly confirms network/infrastructure
+  work, desktop maintenance, Windows from the 95/NT era onward and Samba.
+  Résumé role descriptions corroborate remote and onsite hardware/software
+  maintenance and network implementation. Nested administration scripts and
+  notes corroborate Linux/Windows domain integration; saved tutorials alone
+  do not establish deployments, job completion or professional certification.
+- **ESP32:** a local Arduino-style Hall-sensor/OLED sketch was inspected as
+  source, not built or hardware-tested during this profile review. Public
+  [HTTP-server](https://github.com/danielcamposramos/ESP32-advanced_http_server),
+  [cycle-counter](https://github.com/danielcamposramos/ESP32-simple_cycle_counter)
+  and [MQTT/LoRa](https://github.com/danielcamposramos/ESP32-simple_mqtt_lora)
+  repositories were checked for public availability. Their owner-authored
+  descriptions identify C/C++, VS Code and PlatformIO; the gateway source
+  includes ESP, MQTT and LoRa interfaces. This supports project participation,
+  not blanket hardware validation or independent proof of sole code authorship.
+- **CAD:** the owner's skills record names AutoCAD and MicroStation; the
+  engineering archive contains CAD/drawing materials and internship records.
+  That corroborates the existing owner-published CAD biography. It does not
+  make every archived drawing his work or imply authorization to disclose
+  utility infrastructure or employer-owned documents.
+
+Legacy labels are intentionally separated from current programming badges.
+Retired web technologies are part of Daniel's history, not deployment advice.
+PHP, SQL, ActionScript and vendor-specific administration products were not
+added merely because third-party packages or manuals were present.
+
 [EchoSystems](https://echosystems.ai/) and its
 [about page](https://echosystems.ai/about/) establish the studio identity,
 founder's role and collaborative approach. Marketing projections and claims of
