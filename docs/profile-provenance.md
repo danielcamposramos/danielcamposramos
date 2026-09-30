@@ -226,6 +226,36 @@ The AI partner names in the introduction follow Daniel's account of the
 collaboration; they do not imply that each partner worked on every project or
 that any model provider endorses the work.
 
+### Sparky Armbian and SparkyDroid platform work
+
+Daniel requested a deeper review of his local workspace, including source and
+later device receipts rather than stale top-level summaries. The
+[engineering analysis](sparky-armbian-work.md) records four working device
+baselines, application/native work, audio-chain diagnosis, display recovery and
+firmware integration, with source/build, owner-observed and pending successor
+boundaries stated near the claims. It is an owner-held-evidence synthesis, not
+an independent hardware audit or a public release of that workspace.
+
+Java and Dart/Flutter badges are supported by project-specific mixer and
+launcher implementation/tests, not merely by languages present in an upstream
+fork. Android platform, NDK/JNI, firmware and audio-DSP integration badges link
+to that analysis or its profile spotlight. Daniel directs/integrates the work
+and performs physical acceptance with AI implementation/review partners;
+upstream engines and applications remain credited.
+
+The fresh Java preset-transaction regression passed during this review; the
+analysis pins the three tested source hashes. Historical device acceptance
+was reviewed, not rerun. In particular, later owner acceptance closes T10's
+shutdown gate without rewriting the earlier immutable pending receipt.
+Offline-qualified successors, the newer VLC signalling design and remaining
+shared-card/hotplug gates are not promoted into tested general support.
+
+The project's public-safe publishing and audio-capability skills informed the
+review: no firmware, keys, serials, private paths or third-party APKs are
+published, and internal float processing is kept distinct from HAL/ALSA
+transport and physical converter performance. The document-writing skill
+informed the concise profile spotlight and separate evidence analysis.
+
 ## SparkyLinux and Sparky-OS
 
 Daniel's volunteer history is owner-supplied. The
@@ -301,9 +331,11 @@ BRAVIA's shell and Docker workflows. C also appears in Daniel's public ESP32
 projects; Bash scripting is part of his recorded Sparky-OS contribution.
 
 Repository language inventories alone do not prove authorship or proficiency
-in every inherited language. Java, Objective-C and other languages found in
-upstream code were therefore not added merely because they appear in Array42's
-inventory. The badges represent languages and systems used in Daniel's project
-work, including collaborative implementation, not claims of sole authorship.
+in every inherited language. Java was added only after the separate Android
+implementation/test review described above, not because it appears in Array42.
+Objective-C and other languages found only in inherited inventory were not
+added on that basis. The badges represent languages and systems used in
+Daniel's project work, including collaborative implementation, not claims of
+sole authorship.
 Awesome-list curation, upstream contributions, engineering, display research,
 PM-KR co-chairing and the two named methods retain the claim boundaries above.

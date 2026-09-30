@@ -24,6 +24,8 @@ Based in Brasília, Brazil. Building with a global community.
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D/tree/main/viewer)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D/tree/main/viewer)
 [![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=black)](https://github.com/danielcamposramos/openlinkhub-kde-widget)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)](docs/sparky-armbian-work.md)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](docs/sparky-armbian-work.md)
 
 **Systems & interfaces**
 
@@ -39,6 +41,11 @@ Based in Brasília, Brazil. Building with a global community.
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://github.com/danielcamposramos/ESP32-advanced_http_server)
 [![Arduino programming](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](#earlier-professional-practice)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)](https://github.com/danielcamposramos/ESP32-simple_mqtt_lora)
+[![Android platform engineering](https://img.shields.io/badge/Android-platform_engineering-3DDC84?style=flat-square&logo=android&logoColor=black)](#embedded-platform-engineering)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](docs/sparky-armbian-work.md)
+[![Android NDK / JNI](https://img.shields.io/badge/Android_NDK_%2F_JNI-315A79?style=flat-square)](docs/sparky-armbian-work.md)
+[![Firmware integration](https://img.shields.io/badge/Firmware-integration-475569?style=flat-square)](#embedded-platform-engineering)
+[![Audio DSP integration](https://img.shields.io/badge/Audio_DSP-integration-7C3AED?style=flat-square)](docs/sparky-armbian-work.md)
 
 **Work & community**
 
@@ -58,6 +65,7 @@ Based in Brasília, Brazil. Building with a global community.
 | --- | --- |
 | [Knowledge3D](https://github.com/danielcamposramos/Knowledge3D) | A GPU-native research implementation exploring procedural knowledge and shared spatial interfaces for humans and AI. |
 | [Sony BRAVIA on Linux](https://github.com/danielcamposramos/sony-bravia-linux) | Extending the useful life of pre-Android televisions: stereoscopic playback, media interoperability, and hardware-backed HDMI / DRM / KMS investigations. |
+| [Sparky Armbian / SparkyDroid](docs/sparky-armbian-work.md) | Embedded Android and Linux platform work across TV boxes and an automotive head unit: native ports, audio, display control, and verified firmware deployment. |
 | [Source stereo3D fork](https://github.com/danielcamposramos/source-sdk-2013) | Stereoscopic play and spectator work for Source games, including stereo HUD and menus. Built on Valve's SDK; not an official Valve release. |
 | [Array42](https://github.com/danielcamposramos/Array42) | A native Zig port of Free42, extended with array operations and an MCP interface for AI partners. |
 | [ReSpec MCP](https://github.com/danielcamposramos/respec-mcp) | Connecting specification-authoring workflows to MCP, with explicit project policies and validation. |
@@ -96,6 +104,24 @@ I've volunteered with **[SparkyLinux](https://sparkylinux.org/)** since December
 Together with Paweł (pavroo), I developed [Sparky-OS](https://github.com/Sparky-OS) from our SparkyLinux work, giving its small-business server and workstation goals their own identity beyond SparkyLinux's lightweight focus. Code and artwork include [sparky-beep](https://github.com/Sparky-OS/sparky-beep) for service audio announcements and [SparkyBlack](https://github.com/Sparky-OS/SparkyBlack) for KDE artwork. Sparky-OS is bringing some novelties soon, stay tuned!
 
 Beyond software, I volunteer as a remote tutor with [The Halifax Helpers](https://www.thehalifaxhelpers.com/our-helpers), supporting students in English, mathematics and science.
+
+<a id="embedded-platform-engineering"></a>
+<details>
+<summary><strong>Embedded platform engineering — Sparky Armbian / SparkyDroid</strong></summary>
+
+This work spans **Rockchip and Allwinner TV boxes and an AC8227L automotive head unit**, connecting Android applications, native code, framework/HAL integration and firmware. Core implementations have been built, installed and tested on the project devices—not merely designed.
+
+- **Native Android porting:** adapting RetroPie EmulationStation through C/C++, SDL2 and NDK/JNI; live rendering, digital-controller input and clean native Exit verified on the R69. A generic profile/storage layer also exists, with its newer merged-library successor awaiting device acceptance.
+- **Android TV interfaces:** Dart/Flutter and Java work on FLauncher, including directional focus, wallpaper integration, Back/Home navigation and ROM-integrated power controls. T10 shutdown and IR power-on are owner-confirmed.
+- **Hardware-backed audio:** Head Unit Mixer, persistent DSP service integration and analog gain-staging investigation; accepted after a full head-unit OTA/reset. Audio work distinguishes internal float processing, HAL/ALSA transport and the physical output's actual limits.
+- **Display transactions:** capability-gated RGB10 output and a native, journaled T10 3D transition/recovery controller. Live forced-process-death testing verified restoration to the original RGB10 state; changed-sink hotplug qualification remains separate.
+- **Firmware and recovery:** partition-aware image composition, independent unpack/readback verification, bounded installers, explicit rollback and reset-safe application integration. Accepted baselines remain distinct from newer offline-qualified builds.
+
+I direct and integrate this work with AI partners and perform the physical tests. It builds on upstream Android/AOSP, Armbian, RetroPie/EmulationStation, SDL, FLauncher, JamesDSP and other projects, whose authors retain credit. The workspace and full firmware archives are private; this is not a public ROM-download announcement or a claim of upstream acceptance.
+
+[Implementation, test evidence and remaining boundaries](docs/sparky-armbian-work.md).
+
+</details>
 
 <a id="engineering-background"></a>
 <details>
