@@ -47,6 +47,25 @@ replacement is:
 
 > Electrical engineer · EchoSystems AI Studios founder · W3C PM-KR Community Group co-chair · Open systems & human–AI collective intelligence
 
+## Mirrors on the other forges (2026-10-01)
+
+Daniel asked for the same profile README on every forge where he has an
+account. Each forge shows it from a public repository with a special name:
+
+| Forge | Repository | Remote | Branch |
+|---|---|---|---|
+| GitHub | `danielcamposramos/danielcamposramos` | `origin` | `main` |
+| freedesktop.org GitLab | `danielcamposramos/danielcamposramos` | `fdo` (HTTPS; SSH to this host hangs) | `main` |
+| VideoLAN GitLab | `capitain_jack/capitain_jack` | `videolan` | `main` |
+| KDE invent | `danielcamposramos/danielcamposramos` | `kde` | `master` (KDE refuses a branch named `main`; the remote maps it) |
+| Codeberg | `capitain_jack/.profile` | `codeberg` | `main` |
+| FFmpeg forge | `danielcamposramos/.profile` | not yet created (the token on file can't create repositories) | |
+
+After an approved update and the checks above, push `main` to each remote:
+`for r in origin fdo videolan kde codeberg; do git push $r main; done` (the
+`kde` remote's push refspec sends it to `master`). The same never-push rules
+apply to every mirror.
+
 ## Maintaining the profile
 
 Edit the introduction directly in `README.md`. Keep sources and claim
