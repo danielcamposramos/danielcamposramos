@@ -59,10 +59,11 @@ account. Each forge shows it from a public repository with a special name:
 | VideoLAN GitLab | `capitain_jack/capitain_jack` | `videolan` | `main` |
 | KDE invent | `danielcamposramos/danielcamposramos` | `kde` | `master` (KDE refuses a branch named `main`; the remote maps it) |
 | Codeberg | `capitain_jack/.profile` | `codeberg` | `main` |
+| GitLab.com | `danielcamposramos/danielcamposramos` | `gitlab` | `main` (created 2026-10-10, when Daniel opened the account) |
 | FFmpeg forge | `danielcamposramos/.profile` | not yet created (the token on file can't create repositories) | |
 
 After an approved update and the checks above, push `main` to each remote:
-`for r in origin fdo videolan kde codeberg; do git push $r main; done` (the
+`for r in origin fdo videolan kde codeberg gitlab; do git push $r main; done` (the
 `kde` remote's push refspec sends it to `master`). The same never-push rules
 apply to every mirror.
 

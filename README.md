@@ -17,7 +17,7 @@ Based in Brasília, Brazil. Building with a global community.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)](https://github.com/danielcamposramos/Array42/tree/main/zig)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/danielcamposramos/ESP32-advanced_http_server)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/danielcamposramos/source-sdk-2013)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Sparky-OS/source-sdk-2013)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Sparky-OS/sparky-beep)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/danielcamposramos/respec-mcp)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/danielcamposramos/Knowledge3D/tree/main/viewer)
@@ -63,10 +63,11 @@ Based in Brasília, Brazil. Building with a global community.
 
 | Project | The work |
 | --- | --- |
+| [Sparky Stereo OS](https://github.com/Sparky-OS/sparky-stereo-os) | My stereo 3D edition of SparkyLinux (by Paweł "pavroo" Pijanowski), on Debian 14 "Forky" with KDE Plasma: every program in stereo on any 3D screen, from 3D TVs and projectors to anaglyph glasses and phone headsets. Its repository holds the plan, the progress, the releases and the credits. |
 | [Knowledge3D](https://github.com/danielcamposramos/Knowledge3D) | A GPU-native research implementation exploring procedural knowledge and shared spatial interfaces for humans and AI. |
 | [Sony BRAVIA on Linux](https://github.com/danielcamposramos/sony-bravia-linux) | Extending the useful life of pre-Android televisions: stereoscopic playback, media interoperability, and hardware-backed HDMI / DRM / KMS investigations. |
 | [Sparky Armbian / SparkyDroid](docs/sparky-armbian-work.md) | Embedded Android and Linux platform work across TV boxes and an automotive head unit: native ports, audio, display control, and verified firmware deployment. |
-| [Source stereo3D fork](https://github.com/danielcamposramos/source-sdk-2013) | Stereoscopic play and spectator work for Source games, including stereo HUD and menus. Built on Valve's SDK; not an official Valve release. |
+| [Source stereo3D fork](https://github.com/Sparky-OS/source-sdk-2013) | Stereoscopic play and spectator work for Source games, including stereo HUD and menus. Built on Valve's SDK; not an official Valve release. |
 | [Array42](https://github.com/danielcamposramos/Array42) | A native Zig port of Free42, extended with array operations and an MCP interface for AI partners. |
 | [ReSpec MCP](https://github.com/danielcamposramos/respec-mcp) | Connecting specification-authoring workflows to MCP, with explicit project policies and validation. |
 
@@ -86,7 +87,7 @@ Across these projects, my partners include GPT, Claude, Kimi, DeepSeek, Qwen, GL
 
 ## From the bench to upstream
 
-Recent stereoscopic-media contributions have landed in these projects:
+Some of the stereoscopic-media contributions that landed upstream:
 
 | Project | Contribution |
 | --- | --- |
@@ -95,13 +96,15 @@ Recent stereoscopic-media contributions have landed in these projects:
 | [MKVToolNix](https://codeberg.org/mbunkus/mkvtoolnix/pulls/6311#issuecomment-23409106) | Reading AVC frame-packing SEI to set Matroska stereo mode. |
 | [mpv](https://github.com/mpv-player/mpv/pull/18490) | Detecting stereoscopic layout from stream metadata. |
 
-The display-driver work follows the same path: reproduce, instrument, compare, test on real hardware, and preserve the evidence. Our nouveau experiments have demonstrated **12-bpc SDR output, including tested 3D modes**, on the BRAVIA bench. HDR output and 16-bpc output remain untested; they are research directions, not results I'm claiming.
+The work follows one path: reproduce, instrument, compare with the specification, test on real hardware, and keep the evidence. What passes goes to the project that owns the code, written in its style; where a project cannot take it yet, our fork carries it, current and buildable, until it can.
+
+Every contribution, with the maintainers who reviewed and merged it, is recorded in the [Sparky Stereo OS credits](https://github.com/Sparky-OS/sparky-stereo-os/blob/main/ATTRIBUTIONS.md); its repository shows where each piece stands.
 
 ## SparkyLinux & community
 
 I've volunteered with **[SparkyLinux](https://sparkylinux.org/)** since December 2018, contributing Bash scripting, artwork, and Portuguese-speaking community support.
 
-Together with Paweł (pavroo), I developed [Sparky-OS](https://github.com/Sparky-OS) from our SparkyLinux work, giving its small-business server and workstation goals their own identity beyond SparkyLinux's lightweight focus. Code and artwork include [sparky-beep](https://github.com/Sparky-OS/sparky-beep) for service audio announcements and [SparkyBlack](https://github.com/Sparky-OS/SparkyBlack) for KDE artwork. Sparky-OS is bringing some novelties soon, stay tuned!
+Together with Paweł (pavroo), I developed [Sparky-OS](https://github.com/Sparky-OS) from our SparkyLinux work, giving its small-business server and workstation goals their own identity beyond SparkyLinux's lightweight focus. Code and artwork include [sparky-beep](https://github.com/Sparky-OS/sparky-beep) for service audio announcements and [SparkyBlack](https://github.com/Sparky-OS/SparkyBlack) for KDE artwork. Sparky-OS is also the home of [Sparky Stereo OS](https://github.com/Sparky-OS/sparky-stereo-os), the stereo 3D edition, and of the forks that carry its work on each upstream project.
 
 Beyond software, I volunteer as a remote tutor with [The Halifax Helpers](https://www.thehalifaxhelpers.com/our-helpers), supporting students in English, mathematics and science.
 
