@@ -207,7 +207,7 @@ These repositories connect standards, implementations and practical investigatio
 <details>
 <summary><strong>Elsewhere on the web</strong></summary>
 
-[Codeberg](https://codeberg.org/capitain_jack) · [VideoLAN](https://code.videolan.org/capitain_jack) · [freedesktop.org](https://gitlab.freedesktop.org/danielcamposramos) · [FFmpeg](https://code.ffmpeg.org/danielcamposramos) · [KDE](https://invent.kde.org/danielcamposramos) · [KDE Discuss](https://discuss.kde.org/u/danielcamposramos) · [Qt](https://codereview.qt-project.org/q/owner:danielcamposramos)
+[Codeberg](https://codeberg.org/capitain_jack) · [VideoLAN](https://code.videolan.org/capitain_jack) · [freedesktop.org](https://gitlab.freedesktop.org/danielcamposramos) · [GitLab](https://gitlab.com/danielcamposramos) · [FFmpeg](https://code.ffmpeg.org/danielcamposramos) · [KDE](https://invent.kde.org/danielcamposramos) · [KDE Discuss](https://discuss.kde.org/u/danielcamposramos) · [Qt](https://codereview.qt-project.org/q/owner:danielcamposramos)
 
 [Personal YouTube](https://www.youtube.com/@danielcamposramos9943) · [Earlier video archive](https://www.youtube.com/@CapitainJack0502) · [X](https://x.com/Daniel_Ramos_BR)
 
