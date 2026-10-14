@@ -12,7 +12,7 @@ I connect hardware, software and people: from Linux systems and display signalli
 Based in Brasília, Brazil.
 Building with a global community.
 
-[EchoSystems](https://echosystems.ai/) · [LinkedIn](https://www.linkedin.com/in/danielcamposramos/) · [Get in touch](mailto:contact@echosystems.ai)
+[EchoSystems](https://echosystems.ai/) · [LinkedIn](https://www.linkedin.com/in/danielcamposramos/) · [Lattes CV](http://lattes.cnpq.br/5804732092654795) · [Get in touch](mailto:contact@echosystems.ai)
 
 **Programming & markup**
 
