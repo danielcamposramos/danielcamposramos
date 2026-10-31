@@ -118,6 +118,12 @@ In 2026, that same email identity turns **30 years old**, and I still use it.
 
 Soon afterward, I was writing **DOS batch launchers for games**, before we even had a computer or Internet connection at home.
 
+My first programming language came from a book.
+In 1997 I bought *JavaScript para Netscape: Guia Oficial* by Peter Kent and John Kent (Makron Books, the Brazilian edition of Netscape Press's official JavaScript guide) the month it came out in Brazil, and typed every example in Notepad on Windows.
+I have loved Netscape ever since.
+
+<img src="./assets/javascript-para-netscape-1997.jpg" width="180" alt="My copy of JavaScript para Netscape: Guia Oficial by Peter Kent and John Kent, Makron Books, 1997">
+
 - Bachelor of Electrical Engineering, Universidade Cruzeiro do Sul, completed in 2022; registered with CREA-DF since 2023.
 - More than two decades in IT consulting, maintenance and systems management; founder of Campos Informática DF.
 - Engineering internship with Neoenergia Brasília, including substation CAD documentation and support for electrical infrastructure work.
