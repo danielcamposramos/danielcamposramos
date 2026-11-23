@@ -61,19 +61,25 @@ Specific contributions and evidence stay attributed in each project's records.
 
 ## From the bench to upstream
 
-Some of the stereoscopic-media contributions that landed upstream:
+Some of the contributions that landed upstream:
 
 | Project | Contribution |
 | --- | --- |
 | [HandBrake](https://github.com/HandBrake/HandBrake/pull/8100) | H.264 frame-packing signalling for stereoscopic encodes. |
+| [x265](https://github.com/Multicorewareinc/x265/pull/986) | The same signalling for HEVC encodes. |
 | [Universal Media Server](https://github.com/UniversalMediaServer/UniversalMediaServer/pull/6330) | 3D transcode signalling and BRAVIA playback profiles. |
 | [MKVToolNix](https://codeberg.org/mbunkus/mkvtoolnix/pulls/6311#issuecomment-23409106) | Reading AVC frame-packing SEI to set Matroska stereo mode. |
 | [mpv](https://github.com/mpv-player/mpv/pull/18490) | Detecting stereoscopic layout from stream metadata. |
+| [PeerTube](https://github.com/Chocobozzz/PeerTube/pull/7816) | A 3D video keeps its declared packing through transcoding. |
+| [sView](https://github.com/gkv311/sview/pull/187) | Frame-sequential video keeps the eye order its file declares. |
+| [Qt Multimedia](https://codereview.qt-project.org/c/qt/qtmultimedia/+/778399) | HDR video's peak luminance reported in nits, as documented. |
+| [FreeRDP](https://github.com/FreeRDP/FreeRDP/pull/14003) | Its Android core starts and keeps sessions inside apps built for Android 7.0 (API 24). |
+| [IngeTrazo](https://github.com/ingelibre/ingetrazo/pull/1311) | A stereo eye camera for the 3D modeller. |
 
 The work follows one path: reproduce, instrument, compare with the specification, test on real hardware, and keep the evidence.
 What passes goes to the project that owns the code, written in its style; where a project cannot take it yet, our fork carries it, current and buildable, until it can.
 
-Every contribution, with the maintainers who reviewed and merged it, is recorded in the [Sparky Stereo OS credits](https://github.com/Sparky-OS/sparky-stereo-os/blob/main/ATTRIBUTIONS.md); its repository shows where each piece stands.
+Every merge, with the maintainer who reviewed and merged it, is listed in [Merged outside Sparky Stereo](https://github.com/Sparky-OS/sparky-stereo-os/blob/main/docs/upstream-merges.md); the people and projects the work builds on are in the [credits](https://github.com/Sparky-OS/sparky-stereo-os/blob/main/ATTRIBUTIONS.md).
 
 ## SparkyLinux & community
 
